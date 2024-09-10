@@ -1,11 +1,7 @@
 package com.ascendcorp.exam.proxy;
 
 import com.ascendcorp.exam.model.TransferResponse;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
-import java.util.Date;
-
 
 @Component
 public class BankProxyGateway {
